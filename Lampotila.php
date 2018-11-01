@@ -1,0 +1,5 @@
+<?php
+
+$Lampotila = 6;
+
+?>
